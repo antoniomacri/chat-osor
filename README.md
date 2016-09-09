@@ -1,4 +1,4 @@
-chat-osor
+osor-chat
 =========
 
 A very simple chat application written in C.
